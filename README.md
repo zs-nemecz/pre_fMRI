@@ -1,1 +1,1 @@
-# pre_fMRI
+pilot for fMRI experiment
